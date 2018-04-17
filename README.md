@@ -1,16 +1,16 @@
-# React/Redux Budget Tracker
+# React/Redux Boilerplate
 
-A bare bones react starter set of files
+A bare bones react/redux starter set of files
 
 ## Setup
 
 ```
-npm install
+yarn install
 ```
 ```
-npm run build
+yarn build
 ```
 > `run build` has been modified to watch for changes.
 ```
-npm start
+yarn start
 ```
